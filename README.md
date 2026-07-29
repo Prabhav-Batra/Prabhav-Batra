@@ -1,16 +1,13 @@
 <div align="center">
 
-<!-- Top Animated Header Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003366,100:00d4ff&height=180&section=header&text=PRABHAV%20BATRA&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=38&animation=fadeIn&stroke=00d4ff&strokeWidth=1" width="100%" alt="Header Wave"/>
-
-<!-- Main Cyberpunk Tech Keyboard Banner -->
+<!-- Aggressive Hero Command Center Header -->
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Cyberpunk Tech Arsenal Banner"/>
+  <img src="./assets/hero.svg" width="100%" alt="Prabhav Batra - Systems Architect & Full Stack Developer"/>
 </p>
 
 <!-- Dynamic Typing SVG -->
 <a href="https://github.com/Prabhav-Batra">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Full-Stack+%26+Systems+Engineer;Flutter+%26+Spring+Boot+Architect;Building+High-Performance+Products;Distributed+Systems+%26+Security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=High-Performance+Backend+Systems;Spring+Boot+%26+Flutter+Architect;Distributed+Microservices+%26+Fintech;Building+Scalable+Production+Software" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -23,7 +20,7 @@
   <a href="https://github.com/Prabhav-Batra">
     <img src="https://img.shields.io/github/stars/Prabhav-Batra?affiliations=OWNER&style=for-the-badge&logo=apachespark&logoColor=00D4FF&color=161B22&labelColor=0D1117" />
   </a>
-  <a href="https://github.com/Prabhav-Batra">
+  <a href="https://komarev.com/ghpvc/?username=Prabhav-Batra&style=for-the-badge&color=00D4FF&labelColor=0D1117">
     <img src="https://komarev.com/ghpvc/?username=Prabhav-Batra&style=for-the-badge&color=00D4FF&labelColor=0D1117" />
   </a>
 </p>

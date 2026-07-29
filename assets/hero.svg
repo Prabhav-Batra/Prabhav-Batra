@@ -1,0 +1,148 @@
+<svg width="100%" height="100%" viewBox="0 0 1000 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="hero-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080C14" />
+      <stop offset="60%" stop-color="#0D1117" />
+      <stop offset="100%" stop-color="#05080E" />
+    </linearGradient>
+
+    <!-- Neon Cyan Gradient -->
+    <linearGradient id="cyan-glow-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00D4FF" />
+      <stop offset="50%" stop-color="#38BDF8" />
+      <stop offset="100%" stop-color="#4F94EF" />
+    </linearGradient>
+
+    <!-- Flame Orange Gradient -->
+    <linearGradient id="orange-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF6B35" />
+      <stop offset="100%" stop-color="#FFB800" />
+    </linearGradient>
+
+    <!-- Cyber Grid Pattern -->
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#1F2937" stroke-width="0.5" stroke-opacity="0.4" />
+    </pattern>
+
+    <!-- Glow Filter -->
+    <filter id="neon-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <filter id="text-glow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    .mono { font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Roboto, sans-serif; }
+    .hero-tag { font-size: 13px; font-weight: 800; fill: #00D4FF; letter-spacing: 3px; }
+    .hero-name { font-size: 48px; font-weight: 900; fill: url(#cyan-glow-grad); letter-spacing: -1px; }
+    .hero-sub { font-size: 15px; font-weight: 600; fill: #94A3B8; letter-spacing: 0.5px; }
+    .term-header { font-size: 12px; font-weight: 700; fill: #64748B; }
+    .term-prompt { font-size: 13px; font-weight: 700; fill: #00D4FF; }
+    .term-cmd { font-size: 13px; font-weight: 600; fill: #F8FAFC; }
+    .term-out { font-size: 12.5px; fill: #CBD5E1; }
+    .term-highlight { fill: #38BDF8; font-weight: 700; }
+    .pill-bg { fill: #1E293B; rx: 6px; stroke: #334155; stroke-width: 1; }
+    .pill-text { font-size: 11.5px; font-weight: 700; fill: #38BDF8; }
+  </style>
+
+  <!-- Outer Frame & Grid -->
+  <rect x="2" y="2" width="996" height="356" rx="14" fill="url(#hero-bg)" stroke="#1E293B" stroke-width="1.5" />
+  <rect x="2" y="2" width="996" height="356" rx="14" fill="url(#grid)" />
+
+  <!-- Top Accent Bar -->
+  <rect x="2" y="2" width="996" height="4" fill="url(#cyan-glow-grad)" filter="url(#neon-glow)" />
+
+  <!-- LEFT HERO BLOCK (x: 40, y: 50) -->
+  <g transform="translate(45, 55)">
+    <!-- Cyber Category -->
+    <text x="0" y="20" class="mono hero-tag">&gt; // SYSTEMS ARCHITECT &amp; FULL-STACK DEVELOPER</text>
+
+    <!-- Main Aggressive Name -->
+    <text x="0" y="72" class="sans hero-name" filter="url(#text-glow)">PRABHAV BATRA</text>
+
+    <!-- Subtitle -->
+    <text x="0" y="105" class="sans hero-sub">Turning ambitious ideas into scalable, production-grade products.</text>
+
+    <!-- Status Pill -->
+    <g transform="translate(0, 135)">
+      <rect x="0" y="0" width="370" height="32" rx="16" fill="#0F172A" stroke="#0284C7" stroke-width="1.5" />
+      <circle cx="18" cy="16" r="5" fill="#00FFA3" filter="url(#neon-glow)" />
+      <text x="32" y="21" class="mono" font-size="12" font-weight="700" fill="#F8FAFC">STATUS: READY TO SHIP // OPEN TO IMPACT ROLES</text>
+    </g>
+
+    <!-- Tech Pills Row -->
+    <g transform="translate(0, 195)">
+      <rect x="0" y="0" width="105" height="28" class="pill-bg" />
+      <text x="52" y="18" text-anchor="middle" class="mono pill-text">☕ JAVA/KOTLIN</text>
+
+      <rect x="113" y="0" width="105" height="28" class="pill-bg" />
+      <text x="165" y="18" text-anchor="middle" class="mono pill-text" fill="#00D4FF">⚡ SPRING BOOT</text>
+
+      <rect x="226" y="0" width="90" height="28" class="pill-bg" />
+      <text x="271" y="18" text-anchor="middle" class="mono pill-text" fill="#38BDF8">📱 FLUTTER</text>
+
+      <rect x="324" y="0" width="105" height="28" class="pill-bg" />
+      <text x="376" y="18" text-anchor="middle" class="mono pill-text" fill="#FFB800">🗄️ POSTGRES/REDIS</text>
+    </g>
+  </g>
+
+  <!-- RIGHT TERMINAL BLOCK (x: 520, y: 45) -->
+  <g transform="translate(525, 45)">
+    <!-- Terminal Box -->
+    <rect x="0" y="0" width="430" height="260" rx="10" fill="#090D16" stroke="#1E293B" stroke-width="1.5" />
+
+    <!-- Terminal Top Header -->
+    <rect x="0" y="0" width="430" height="34" rx="10" fill="#0F172A" />
+    <rect x="0" y="24" width="430" height="10" fill="#0F172A" /> <!-- fill bottom corner radius -->
+
+    <!-- Window Buttons -->
+    <circle cx="18" cy="17" r="5" fill="#EF4444" />
+    <circle cx="34" cy="17" r="5" fill="#F59E0B" />
+    <circle cx="50" cy="17" r="5" fill="#10B981" />
+
+    <text x="75" y="21" class="mono term-header">zsh — prabhav@systems-node:~</text>
+
+    <!-- Terminal Content Lines -->
+    <g transform="translate(18, 60)">
+      <!-- Line 1: Command -->
+      <text x="0" y="0" class="mono term-prompt">$</text>
+      <text x="15" y="0" class="mono term-cmd">prabhav --init --mode=PRODUCTION</text>
+
+      <!-- Line 2: Output -->
+      <text x="0" y="26" class="mono term-out">&gt; Initializing core engines...</text>
+
+      <!-- Line 3: Stack -->
+      <text x="0" y="52" class="mono term-out">&gt; ARCH: <tspan class="term-highlight">Distributed Microservices</tspan></text>
+
+      <!-- Line 4: Focus -->
+      <text x="0" y="78" class="mono term-out">&gt; FOCUS: <tspan class="term-highlight">High-Throughput Payment Infra</tspan></text>
+
+      <!-- Line 5: AI OS -->
+      <text x="0" y="104" class="mono term-out">&gt; SYSTEM: <tspan class="term-highlight">AI-Powered Engineering OS</tspan></text>
+
+      <!-- Line 6: Metrics -->
+      <text x="0" y="130" class="mono term-out">&gt; METRICS: <tspan class="term-highlight" fill="#00FFA3">99.99% Uptime · Low Latency</tspan></text>
+
+      <!-- Line 7: Divider -->
+      <line x1="0" y1="145" x2="394" y2="145" stroke="#1E293B" stroke-width="1" />
+
+      <!-- Line 8: Active Status -->
+      <text x="0" y="168" class="mono term-prompt">✓</text>
+      <text x="15" y="168" class="mono" font-size="12.5" font-weight="700" fill="#00FFA3">ALL SYSTEMS OPERATIONAL. READY TO BUILD.</text>
+    </g>
+  </g>
+
+</svg>
