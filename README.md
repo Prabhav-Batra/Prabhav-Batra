@@ -223,41 +223,7 @@ Link: https://github.com/Prabhav-Batra/LeetPush
 
 </div>
 
-<p align="center">
-  <img src="./assets/divider.svg" width="100%" />
-</p>
 
-<!-- ===================== TROPHIES ===================== -->
-<div align="center">
-
-<h2>🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prabhav-Batra&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=4"/>
-</p>
-
-</div>
-
-<p align="center">
-  <img src="./assets/divider.svg" width="100%" />
-</p>
-
-<!-- ===================== SNAKE ANIMATION ===================== -->
-<div align="center">
-
-<h2>🐍 Contribution Matrix</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prabhav-Batra/Prabhav-Batra/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prabhav-Batra/Prabhav-Batra/output/github-contribution-grid-snake.svg">
-  <img alt="Snake Animation" src="https://raw.githubusercontent.com/Prabhav-Batra/Prabhav-Batra/output/github-contribution-grid-snake-dark.svg" width="100%">
-</picture>
-
-</div>
-
-<p align="center">
-  <img src="./assets/divider.svg" width="100%" />
-</p>
 
 <!-- ===================== CONNECT ===================== -->
 <div align="center">
