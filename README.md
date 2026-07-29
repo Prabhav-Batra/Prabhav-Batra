@@ -39,17 +39,21 @@
 <!-- Who am i? -->
 <img src="https://media.tenor.com/36y7ERdf9rsAAAAj/persona-5.gif" width=390 align="left">
 <div align="center">
-
-**Who Am I?**
+<img src="./assets/images/WhoAmI.svg" width="280">
 </div>
+
+<br>
 
 <div align="justify">
 
-I am a **Systems Architect** and **Full-Stack Engineer** currently focusing on building **high-throughput backend infrastructure**, **cross-platform Flutter applications**, and resilient **distributed microservices**. My professional journey is driven by continuous learning, practical experience, and a strong commitment to delivering complete and functional systems for real-world needs.
+> ⚡ **CORE DIRECTIVE:** `SYSTEMS ARCHITECTURE` // `FULL-STACK ENGINEERING`
 
-Over time, I have developed solid experience across the **backend development ecosystem**, where logic meets scalability. Alongside web technologies, I have expanded my skills into mobile development, focusing on building modern applications using `Flutter` and `Dart`.
+I build **high-throughput backend infrastructure**, **cross-platform Flutter apps**, and resilient **distributed microservices**. My engineering philosophy revolves around zero fluff, clean architecture, and delivering products that can handle massive scale.
 
-At the moment, I am working on projects like **ProjectOS** and **FluxPay**, developing complete systems from planning and interface design to implementation and delivery. This hands-on experience has strengthened my problem-solving skills, technical versatility, and ability to understand complex business needs, while constantly pushing me to grow as a developer and professional.
+> 🛠️ **ECOSYSTEM:** `Flutter` `Dart` `Spring Boot` `React` `PostgreSQL`  
+> 🎯 **CURRENT FOCUS:** `ProjectOS` & `FluxPay`
+
+From planning and interface design to **implementation and production deployment**, I take ownership of the entire engineering lifecycle. My hands-on experience has forged strong **problem-solving skills**, technical versatility, and a deep understanding of complex business logic.
 
 </div>
 
