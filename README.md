@@ -113,8 +113,12 @@ From planning and interface design to **implementation and production deployment
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prabhav-Batra&repo=ProjectOS&theme=dark&bg_color=FF1001&title_color=e0fbfc&text_color=000000&hide_border=true&description_lines_count=7&icon_color=ffffff&cache_seconds=86400" />
 </div>
 
-<!-- Tech Stack Section -->
+<br><!-- Tech Stack Section -->
+<div align="center">
+  <img src="./assets/images/Stack_v2.svg">
+</div>
 <br>
+
 <div align="center">
   <!-- Top Marquee -->
   <img src="./assets/images/marquee_red.svg" width="100%">
@@ -122,7 +126,7 @@ From planning and interface design to **implementation and production deployment
   <br><br><br>
   
   <a href="https://skillicons.dev">
-    <img src="./assets/images/TechArsenal.svg" width="100%">
+    <img src="./assets/images/TechArsenal_v2.svg" width="100%">
   </a>
   
   <br><br><br>
