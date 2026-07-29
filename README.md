@@ -120,50 +120,36 @@ From planning and interface design to **implementation and production deployment
 </div>
 <br>
 
-<table align="center" width="100%" style="border: none;">
-  <tr>
-    <td align="center" width="50%" style="padding: 15px; border: none;">
-      <h3 style="color: #FF1001; margin-bottom: 10px;">💻 LANGUAGES</h3>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,kotlin,dart,ts,js,py&theme=dark" />
-      </a>
-    </td>
-    <td align="center" width="50%" style="padding: 15px; border: none;">
-      <h3 style="color: #FF1001; margin-bottom: 10px;">📱 MOBILE & FRONTEND</h3>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=flutter,firebase,react,nextjs&theme=dark" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%" style="padding: 15px; border: none;">
-      <h3 style="color: #FF1001; margin-bottom: 10px;">⚙️ BACKEND</h3>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=spring,nodejs&theme=dark" />
-      </a>
-    </td>
-    <td align="center" width="50%" style="padding: 15px; border: none;">
-      <h3 style="color: #FF1001; margin-bottom: 10px;">🗄️ DATABASES</h3>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql&theme=dark" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%" style="padding: 15px; border: none;">
-      <h3 style="color: #FF1001; margin-bottom: 10px;">☁️ DEVOPS</h3>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=docker,kubernetes,rabbitmq,git&theme=dark" />
-      </a>
-    </td>
-    <td align="center" width="50%" style="padding: 15px; border: none;">
-      <h3 style="color: #FF1001; margin-bottom: 10px;">🎨 DESIGN</h3>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=figma,framer,ps,illustrator&theme=dark" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="./assets/images/cat_languages.svg" height="45">
+  <br>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,kotlin,dart,ts,js,py&theme=dark" /></a>
+  <br><br><br>
+
+  <img src="./assets/images/cat_mobile.svg" height="45">
+  <br>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flutter,firebase,react,nextjs&theme=dark" /></a>
+  <br><br><br>
+
+  <img src="./assets/images/cat_backend.svg" height="45">
+  <br>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,nodejs&theme=dark" /></a>
+  <br><br><br>
+
+  <img src="./assets/images/cat_databases.svg" height="45">
+  <br>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql&theme=dark" /></a>
+  <br><br><br>
+
+  <img src="./assets/images/cat_devops.svg" height="45">
+  <br>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,kubernetes,rabbitmq,git&theme=dark" /></a>
+  <br><br><br>
+
+  <img src="./assets/images/cat_design.svg" height="45">
+  <br>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,framer,ps,illustrator&theme=dark" /></a>
+</div>
 
 <!--
 <img src="https://steamcdn-a.akamaihd.net/steam/apps/1382330/extras/2-citynightmare.gif?t=1608034435">
