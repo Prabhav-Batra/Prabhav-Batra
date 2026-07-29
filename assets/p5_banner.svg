@@ -1,0 +1,30 @@
+<svg width="900" height="200" viewBox="0 0 900 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Red Background -->
+  <rect width="900" height="200" fill="#E60012" />
+  
+  <!-- Stylized Black & White Background Elements (Persona style) -->
+  <polygon points="600,0 900,0 900,200 500,200" fill="#000000" />
+  <polygon points="750,0 900,0 900,100 800,200" fill="#FFFFFF" />
+  <polygon points="500,0 550,0 450,200 400,200" fill="#000000" />
+  
+  <polygon points="100,50 150,20 180,80 120,100" fill="#FFFFFF" opacity="0.8"/>
+  <circle cx="80" cy="140" r="30" fill="#000000" opacity="0.5"/>
+  <circle cx="850" cy="80" r="40" fill="#E60012" />
+  
+  <path d="M 700 50 L 750 20 L 780 100 L 680 120 Z" fill="#000000" />
+  
+  <!-- "PRABHAV BATRA" text in Persona 5 style -->
+  <g transform="translate(450, 100) rotate(-4)">
+    <!-- Shadow/Outline -->
+    <text x="0" y="0" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-weight="900" font-size="64" fill="#000000" stroke="#FFFFFF" stroke-width="8" letter-spacing="4">PRABHAV BATRA</text>
+    <!-- Main Text -->
+    <text x="0" y="0" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-weight="900" font-size="64" fill="#FFFFFF" letter-spacing="4">PRABHAV BATRA</text>
+    <!-- Subtitle -->
+    <text x="0" y="35" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-weight="900" font-size="20" fill="#000000" letter-spacing="2">SYSTEMS ARCHITECT</text>
+  </g>
+  
+  <!-- P5 Style Star -->
+  <g transform="translate(750, 140) scale(0.6)">
+    <polygon points="50,0 60,35 95,35 65,55 75,90 50,70 25,90 35,55 5,35 40,35" fill="#E60012" stroke="#FFFFFF" stroke-width="4" />
+  </g>
+</svg>
