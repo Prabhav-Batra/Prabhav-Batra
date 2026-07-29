@@ -1,200 +1,116 @@
 <div align="center">
 
-<!-- Aggressive Hero Command Center Header -->
+<!-- RETRO EDITORIAL BRUTALIST RESUME POSTER (EXACT MATCH TO REFERENCE DESIGN SYSTEM) -->
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Prabhav Batra - Systems Architect & Full Stack Developer"/>
+  <img src="./assets/resume_poster.svg" width="100%" alt="Prabhav Batra - Editorial Resume Poster"/>
 </p>
 
-<!-- Dynamic Typing SVG -->
-<a href="https://github.com/Prabhav-Batra">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=High-Performance+Backend+Systems;Spring+Boot+%26+Flutter+Architect;Distributed+Microservices+%26+Fintech;Building+Scalable+Production+Software" alt="Typing SVG" />
-</a>
+</div>
 
 <br/>
 
-<!-- Profile Shields -->
-<p align="center">
-  <a href="https://github.com/Prabhav-Batra">
-    <img src="https://img.shields.io/github/followers/Prabhav-Batra?style=for-the-badge&logo=github&logoColor=00D4FF&color=161B22&labelColor=0D1117" />
-  </a>
-  <a href="https://github.com/Prabhav-Batra">
-    <img src="https://img.shields.io/github/stars/Prabhav-Batra?affiliations=OWNER&style=for-the-badge&logo=apachespark&logoColor=00D4FF&color=161B22&labelColor=0D1117" />
-  </a>
-  <a href="https://komarev.com/ghpvc/?username=Prabhav-Batra&style=for-the-badge&color=00D4FF&labelColor=0D1117">
-    <img src="https://komarev.com/ghpvc/?username=Prabhav-Batra&style=for-the-badge&color=00D4FF&labelColor=0D1117" />
-  </a>
-</p>
-
-</div>
-
-<p align="center">
-  <img src="./assets/divider.svg" width="100%" />
-</p>
-
-<!-- ===================== ABOUT ME ===================== -->
-<p align="center">
-  <img src="./assets/overview.svg" width="100%" alt="Engineering Overview HUD"/>
-</p>
-
-<p align="center">
-  <img src="./assets/divider.svg" width="100%" />
-</p>
-
-<!-- ===================== TECH ARSENAL ===================== -->
+<!-- ===================== QUICK INTERACTIVE LINKS ===================== -->
 <div align="center">
 
-<h2>🛠️ Tech Arsenal</h2>
+### 🔗 Connect & Explore
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,dart,ts,js,python&perline=6" alt="Languages" /><br/>
-  <img src="https://skillicons.dev/icons?i=flutter,spring,react,nextjs,nodejs,express&perline=6" alt="Frameworks" /><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,firebase&perline=5" alt="Databases" /><br/>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,rabbitmq,git,github,linux,vscode,idea,postman,figma&perline=10" alt="DevOps & Tools" />
-</p>
+<a href="https://github.com/Prabhav-Batra" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=FFE600"/>
+</a>
+<a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://your-portfolio.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FFE600?style=for-the-badge&logo=googlechrome&logoColor=121212"/>
+</a>
+<a href="mailto:your@email.com">
+  <img src="https://img.shields.io/badge/Email-121212?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
-<p align="center">
-  <img src="./assets/divider.svg" width="100%" />
-</p>
+<br/>
 
-<!-- ===================== FEATURED PRODUCTS ===================== -->
-<h2 align="center">🚀 Featured Engineering Products</h2>
+<!-- ===================== FEATURED PRODUCTS DETAIL ===================== -->
+## 🚀 Featured Engineering Products
 
-<table width="100%">
+<table>
 <tr>
 <td width="50%" valign="top">
 
-```yaml
-Name: ProjectOS
-Type: AI Engineering Operating System
-Tech: Spring Boot, React, Python, OpenAI, PostgreSQL
-Status: Production Ready 🟢
-Link: https://github.com/Prabhav-Batra/ProjectOS
-```
-> AI-powered engineering OS automating developer workflows, task orchestration, and intelligent system analytics.
+### ⚡ ProjectOS
+**Type:** AI Engineering Operating System  
+**Tech:** Spring Boot, React, Python, OpenAI, PostgreSQL  
+**Link:** [github.com/Prabhav-Batra/ProjectOS](https://github.com/Prabhav-Batra/ProjectOS)  
+> Intelligent engineering operating system designed to automate software developer workflows, task orchestration, and system metrics.
 
 </td>
 <td width="50%" valign="top">
 
-```yaml
-Name: fluxpay-backend
-Type: Payment Gateway & Banking Infra
-Tech: Java, Spring Boot, Redis, RabbitMQ, PostgreSQL
-Status: Active Deployment 🟢
-Link: https://github.com/Prabhav-Batra/fluxpay-backend
-```
-> High-throughput payment processing engine with double-entry ledger accounting, webhook handling, and fault tolerance.
+### 💳 fluxpay-backend
+**Type:** Payment Gateway & Ledger Infrastructure  
+**Tech:** Java, Spring Boot, Redis, RabbitMQ, PostgreSQL  
+**Link:** [github.com/Prabhav-Batra/fluxpay-backend](https://github.com/Prabhav-Batra/fluxpay-backend)  
+> High-throughput payment processing engine featuring double-entry ledger accounting, webhook handling, and fault-tolerant queueing.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-```yaml
-Name: fluxpay-frontend
-Type: Mobile Fintech Application
-Tech: Flutter, Dart, Riverpod, Firebase, REST
-Status: Active Deployment 🟢
-Link: https://github.com/Prabhav-Batra/fluxpay-frontend
-```
-> Sleek, cross-platform mobile wallet and fintech dashboard with real-time transaction streaming and biometric security.
+### 📱 fluxpay-frontend
+**Type:** Cross-Platform Mobile Wallet  
+**Tech:** Flutter, Dart, Riverpod, Firebase  
+**Link:** [github.com/Prabhav-Batra/fluxpay-frontend](https://github.com/Prabhav-Batra/fluxpay-frontend)  
+> Sleek, modern mobile fintech application with real-time transaction streaming, biometric security, and ultra-smooth UI animations.
 
 </td>
 <td width="50%" valign="top">
 
-```yaml
-Name: NIDS_CLI
-Type: Network Intrusion Detection CLI
-Tech: Python, C++, Scapy, Machine Learning
-Status: Open Source 🟢
-Link: https://github.com/Prabhav-Batra/NIDS_CLI
-```
-> Real-time packet inspection and anomaly detection CLI tool leveraging machine learning models to detect network attacks.
+### 🛡️ NIDS_CLI
+**Type:** Network Intrusion Detection CLI  
+**Tech:** Python, C++, Scapy, Machine Learning  
+**Link:** [github.com/Prabhav-Batra/NIDS_CLI](https://github.com/Prabhav-Batra/NIDS_CLI)  
+> Real-time packet inspection and anomaly detection command-line tool leveraging ML models to detect network attacks.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-```yaml
-Name: DiseaseOutbreakPredictor
-Type: Predictive Healthcare Analytics
-Tech: Python, Scikit-Learn, FastAPI, React
-Status: Research & Dev 🟢
-Link: https://github.com/Prabhav-Batra/DiseaseOutbreakPredictor
-```
-> ML forecasting model designed to predict epidemic outbreaks based on epidemiological data, weather patterns, and mobility trends.
+### 📊 DiseaseOutbreakPredictor
+**Type:** Predictive Healthcare Analytics  
+**Tech:** Python, Scikit-Learn, FastAPI, React  
+**Link:** [github.com/Prabhav-Batra/DiseaseOutbreakPredictor](https://github.com/Prabhav-Batra/DiseaseOutbreakPredictor)  
+> Predictive machine learning forecasting model designed to analyze epidemiological data and weather patterns for disease outbreaks.
 
 </td>
 <td width="50%" valign="top">
 
-```yaml
-Name: LeetPush
-Type: Automation Utility
-Tech: JavaScript, Chrome Extension API, GitHub API
-Status: Published 🟢
-Link: https://github.com/Prabhav-Batra/LeetPush
-```
+### 🔄 LeetPush
+**Type:** Developer Automation Extension  
+**Tech:** JavaScript, Chrome Extension API, GitHub API  
+**Link:** [github.com/Prabhav-Batra/LeetPush](https://github.com/Prabhav-Batra/LeetPush)  
 > Lightweight extension automatically syncing accepted LeetCode solutions directly to GitHub repositories with detailed runtime stats.
 
 </td>
 </tr>
 </table>
 
-<p align="center">
-  <img src="./assets/divider.svg" width="100%" />
-</p>
-
-<!-- ===================== GITHUB METRICS ===================== -->
-<div align="center">
-
-<h2>📊 GitHub Analytics & Telemetry</h2>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prabhav-Batra&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=8B949E&border_radius=8" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhav-Batra&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=8B949E&border_radius=8" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Prabhav-Batra&theme=dark&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakNum=00D4FF&sideNums=8B949E&sideLabels=8B949E&dates=8B949E" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prabhav-Batra&bg_color=0D1117&color=00D4FF&line=00D4FF&point=ffffff&area=true&area_color=00D4FF&title_color=00D4FF&hide_border=true"/>
-</p>
-
-</div>
-
-
-
-<!-- ===================== CONNECT ===================== -->
-<div align="center">
-
-<h2>🌐 Connect & Network</h2>
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=black"/>
-  </a>
-  <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
 <br/>
 
+<!-- ===================== GITHUB TELEMETRY ===================== -->
+<div align="center">
+
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prabhav-Batra&show_icons=true&theme=dark&hide_border=true&bg_color=121212&title_color=FFE600&icon_color=FFE600&text_color=FFFFFF&border_radius=8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhav-Batra&layout=compact&theme=dark&hide_border=true&bg_color=121212&title_color=FFE600&text_color=FFFFFF&border_radius=8" />
 </p>
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:003366,100:0d1117&height=120&section=footer" width="100%" alt="Footer Wave"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Prabhav-Batra&theme=dark&hide_border=true&background=121212&ring=FFE600&fire=FFE600&currStreakNum=FFE600&sideNums=FFFFFF&sideLabels=888888" />
+</p>
 
 </div>
