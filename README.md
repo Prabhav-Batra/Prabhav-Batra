@@ -113,42 +113,49 @@ From planning and interface design to **implementation and production deployment
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prabhav-Batra&repo=ProjectOS&theme=dark&bg_color=FF1001&title_color=e0fbfc&text_color=000000&hide_border=true&description_lines_count=7&icon_color=ffffff&cache_seconds=86400" />
 </div>
 
-<br><br>
-
+<br><!-- Tech Stack Section -->
 <div align="center">
   <img src="./assets/images/Stack.svg">
 </div>
 <br>
 
 <div align="center">
-  <img src="./assets/images/cat_languages.svg" height="45">
-  <br>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,kotlin,dart,ts,js,py&theme=dark" /></a>
+  <!-- Top Marquee -->
+  <img src="./assets/images/marquee_red.svg" width="100%">
   <br><br><br>
 
-  <img src="./assets/images/cat_mobile.svg" height="45">
-  <br>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flutter,firebase,react,nextjs&theme=dark" /></a>
-  <br><br><br>
+  <img src="./assets/images/cat_languages.svg" height="80">
+  <br><br>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,kotlin,dart,ts,js,py&theme=dark&perline=8" /></a>
+  <br><br><br><br>
 
-  <img src="./assets/images/cat_backend.svg" height="45">
-  <br>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,nodejs&theme=dark" /></a>
-  <br><br><br>
+  <img src="./assets/images/cat_mobile.svg" height="80">
+  <br><br>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flutter,firebase,react,nextjs&theme=dark&perline=8" /></a>
+  <br><br><br><br>
 
-  <img src="./assets/images/cat_databases.svg" height="45">
-  <br>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql&theme=dark" /></a>
-  <br><br><br>
+  <img src="./assets/images/cat_backend.svg" height="80">
+  <br><br>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,nodejs&theme=dark&perline=8" /></a>
+  <br><br><br><br>
 
-  <img src="./assets/images/cat_devops.svg" height="45">
-  <br>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,kubernetes,rabbitmq,git&theme=dark" /></a>
-  <br><br><br>
+  <img src="./assets/images/cat_databases.svg" height="80">
+  <br><br>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql&theme=dark&perline=8" /></a>
+  <br><br><br><br>
 
-  <img src="./assets/images/cat_design.svg" height="45">
-  <br>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,framer,ps,illustrator&theme=dark" /></a>
+  <img src="./assets/images/cat_devops.svg" height="80">
+  <br><br>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,kubernetes,rabbitmq,git&theme=dark&perline=8" /></a>
+  <br><br><br><br>
+
+  <img src="./assets/images/cat_design.svg" height="80">
+  <br><br>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,framer,ps,illustrator&theme=dark&perline=8" /></a>
+  
+  <br><br><br>
+  <!-- Bottom Marquee -->
+  <img src="./assets/images/marquee_black.svg" width="100%">
 </div>
 
 <!--
