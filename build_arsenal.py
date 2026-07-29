@@ -15,7 +15,7 @@ def get_skillicons(icons):
 
 categories = [
     ("LANGUAGES", "java,kotlin,dart,ts,js,py"),
-    ("MOBILE & FRONTEND", "flutter,firebase,react,nextjs"),
+    ("MOBILE &amp; FRONTEND", "flutter,firebase,react,nextjs"),
     ("BACKEND", "spring,nodejs"),
     ("DATABASES", "postgres,mongodb,redis,mysql"),
     ("DEVOPS", "docker,kubernetes,rabbitmq,git"),
