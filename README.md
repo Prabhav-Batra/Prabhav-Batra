@@ -35,63 +35,9 @@
 </p>
 
 <!-- ===================== ABOUT ME ===================== -->
-<h2 align="center">⚡ Engineering Overview</h2>
-
-<table width="100%" style="border-collapse: collapse; border: none;">
-<tr>
-
-<td width="60%" valign="top" style="border: none; padding-right: 15px;">
-
-### 👨‍💻 About Me
-
-I build robust, high-performance software products spanning backend engineering, Flutter applications, distributed systems, and modern product architecture. Focused on scalable design, clean code, and zero fluff.
-
-- 🚀 **Building:** Next-gen AI operating systems & payment infrastructure
-- ⚡ **Core Stack:** Java, Kotlin, Dart, Spring Boot, Flutter, PostgreSQL, Redis
-- 🎯 **Target:** Engineering resilient distributed microservices & mobile apps
-- 📍 **Based In:** India
-
-<br/>
-
-<table width="100%" style="border: 1px solid #1F2937; background-color: #0D1117; border-radius: 8px;">
-<tr>
-  <td align="center" width="25%" style="padding: 10px; border-right: 1px solid #1F2937;">
-    <h3 style="color: #00D4FF; margin: 0;">3+</h3>
-    <small>Years Dev</small>
-  </td>
-  <td align="center" width="25%" style="padding: 10px; border-right: 1px solid #1F2937;">
-    <h3 style="color: #00D4FF; margin: 0;">15+</h3>
-    <small>Projects Built</small>
-  </td>
-  <td align="center" width="25%" style="padding: 10px; border-right: 1px solid #1F2937;">
-    <h3 style="color: #00D4FF; margin: 0;">100%</h3>
-    <small>Production Focus</small>
-  </td>
-  <td align="center" width="25%" style="padding: 10px;">
-    <h3 style="color: #00D4FF; margin: 0;">24/7</h3>
-    <small>System Uptime</small>
-  </td>
-</tr>
-</table>
-
-</td>
-
-<td width="40%" valign="top" style="border: none; padding-left: 15px;">
-
-<blockquote style="border-left: 4px solid #00D4FF; background: #161B22; padding: 12px; margin: 0 0 15px 0;">
-<h4 style="margin: 0 0 5px 0; color: #00D4FF;">🧠 My Philosophy</h4>
-Architecture first. Build for failure, design for scale, and execute with absolute precision. High aesthetics meets rock-solid engineering.
-</blockquote>
-
-<blockquote style="border-left: 4px solid #4F94EF; background: #161B22; padding: 12px; margin: 0;">
-<h4 style="margin: 0 0 5px 0; color: #4F94EF;">🎯 The Mission</h4>
-Transforming complex product ideas into resilient, low-latency, and intuitive digital infrastructure.
-</blockquote>
-
-</td>
-
-</tr>
-</table>
+<p align="center">
+  <img src="./assets/overview.svg" width="100%" alt="Engineering Overview HUD"/>
+</p>
 
 <p align="center">
   <img src="./assets/divider.svg" width="100%" />
