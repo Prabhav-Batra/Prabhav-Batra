@@ -1,608 +1,291 @@
+<div align="center">
+
+<!-- Top Animated Header Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003366,100:00d4ff&height=180&section=header&text=PRABHAV%20BATRA&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=38&animation=fadeIn&stroke=00d4ff&strokeWidth=1" width="100%" alt="Header Wave"/>
+
+<!-- Main Cyberpunk Tech Keyboard Banner -->
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Banner"/>
+  <img src="./assets/banner.png" width="100%" alt="Cyberpunk Tech Arsenal Banner"/>
 </p>
 
-<h1 align="center">Prabhav Batra</h1>
-<p align="center"><b>Turning ambitious ideas into production-ready products.</b></p>
-
----
-## 👨‍💻 About
-I build scalable software products focused on backend engineering, Flutter applications, distributed systems and product design.
-
-## 🚀 Featured Products
-### ProjectOS
-AI-powered engineering operating system.
-
-### fluxpay-backend
-Spring Boot payment infrastructure.
-
-### fluxpay-frontend
-Flutter fintech application.
-
-### NIDS_CLI
-Network intrusion detection CLI.
-
-### DiseaseOutbreakPredictor
-Machine learning outbreak prediction.
-
-### LeetPush
-Push solved coding problems to GitHub.
-
-## 🛠 Tech Arsenal
-Java • Kotlin • Dart • JavaScript • TypeScript • Python
-Flutter • Spring Boot • React • Next.js • Node.js • Firebase
-PostgreSQL • MongoDB • Redis • MySQL
-Docker • Kubernetes • RabbitMQ • Git
-
-## 🎯 Current Focus
-- Flutter
-- Spring Boot
-- Product Engineering
-- Distributed Systems
-
-## 📫 Connect
-- LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-- Portfolio: https://your-portfolio.com
-- Instagram: https://instagram.com/YOUR_USERNAME
-- Email: your@email.com
-
-<!-- ===================== SECTION 01 ===================== -->
-## Custom Section 1
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 02 ===================== -->
-## Custom Section 2
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 03 ===================== -->
-## Custom Section 3
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 04 ===================== -->
-## Custom Section 4
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 05 ===================== -->
-## Custom Section 5
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 06 ===================== -->
-## Custom Section 6
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 07 ===================== -->
-## Custom Section 7
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 08 ===================== -->
-## Custom Section 8
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 09 ===================== -->
-## Custom Section 9
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 10 ===================== -->
-## Custom Section 10
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 11 ===================== -->
-## Custom Section 11
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 12 ===================== -->
-## Custom Section 12
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 13 ===================== -->
-## Custom Section 13
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 14 ===================== -->
-## Custom Section 14
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 15 ===================== -->
-## Custom Section 15
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 16 ===================== -->
-## Custom Section 16
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 17 ===================== -->
-## Custom Section 17
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 18 ===================== -->
-## Custom Section 18
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 19 ===================== -->
-## Custom Section 19
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 20 ===================== -->
-## Custom Section 20
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 21 ===================== -->
-## Custom Section 21
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 22 ===================== -->
-## Custom Section 22
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 23 ===================== -->
-## Custom Section 23
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 24 ===================== -->
-## Custom Section 24
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 25 ===================== -->
-## Custom Section 25
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 26 ===================== -->
-## Custom Section 26
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 27 ===================== -->
-## Custom Section 27
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 28 ===================== -->
-## Custom Section 28
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 29 ===================== -->
-## Custom Section 29
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 30 ===================== -->
-## Custom Section 30
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 31 ===================== -->
-## Custom Section 31
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 32 ===================== -->
-## Custom Section 32
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 33 ===================== -->
-## Custom Section 33
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 34 ===================== -->
-## Custom Section 34
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 35 ===================== -->
-## Custom Section 35
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 36 ===================== -->
-## Custom Section 36
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 37 ===================== -->
-## Custom Section 37
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 38 ===================== -->
-## Custom Section 38
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 39 ===================== -->
-## Custom Section 39
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 40 ===================== -->
-## Custom Section 40
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 41 ===================== -->
-## Custom Section 41
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 42 ===================== -->
-## Custom Section 42
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 43 ===================== -->
-## Custom Section 43
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 44 ===================== -->
-## Custom Section 44
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 45 ===================== -->
-## Custom Section 45
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 46 ===================== -->
-## Custom Section 46
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 47 ===================== -->
-## Custom Section 47
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 48 ===================== -->
-## Custom Section 48
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 49 ===================== -->
-## Custom Section 49
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 50 ===================== -->
-## Custom Section 50
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 51 ===================== -->
-## Custom Section 51
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 52 ===================== -->
-## Custom Section 52
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 53 ===================== -->
-## Custom Section 53
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 54 ===================== -->
-## Custom Section 54
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 55 ===================== -->
-## Custom Section 55
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 56 ===================== -->
-## Custom Section 56
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 57 ===================== -->
-## Custom Section 57
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 58 ===================== -->
-## Custom Section 58
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 59 ===================== -->
-## Custom Section 59
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 60 ===================== -->
-## Custom Section 60
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 61 ===================== -->
-## Custom Section 61
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 62 ===================== -->
-## Custom Section 62
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 63 ===================== -->
-## Custom Section 63
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 64 ===================== -->
-## Custom Section 64
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 65 ===================== -->
-## Custom Section 65
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 66 ===================== -->
-## Custom Section 66
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 67 ===================== -->
-## Custom Section 67
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 68 ===================== -->
-## Custom Section 68
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 69 ===================== -->
-## Custom Section 69
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 70 ===================== -->
-## Custom Section 70
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 71 ===================== -->
-## Custom Section 71
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 72 ===================== -->
-## Custom Section 72
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 73 ===================== -->
-## Custom Section 73
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 74 ===================== -->
-## Custom Section 74
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 75 ===================== -->
-## Custom Section 75
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 76 ===================== -->
-## Custom Section 76
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 77 ===================== -->
-## Custom Section 77
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 78 ===================== -->
-## Custom Section 78
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 79 ===================== -->
-## Custom Section 79
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
-
-<!-- ===================== SECTION 80 ===================== -->
-## Custom Section 80
-<!-- Replace this block with project cards / SVG dividers / HTML layout -->
-<table>
-<tr><td width='50%'>Left Content</td><td width='50%'>Right Content</td></tr>
-</table>
+<!-- Dynamic Typing SVG -->
+<a href="https://github.com/Prabhav-Batra">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Full-Stack+%26+Systems+Engineer;Flutter+%26+Spring+Boot+Architect;Building+High-Performance+Products;Distributed+Systems+%26+Security" alt="Typing SVG" />
+</a>
 
+<br/>
+
+<!-- Profile Shields -->
+<p align="center">
+  <a href="https://github.com/Prabhav-Batra">
+    <img src="https://img.shields.io/github/followers/Prabhav-Batra?style=for-the-badge&logo=github&logoColor=00D4FF&color=161B22&labelColor=0D1117" />
+  </a>
+  <a href="https://github.com/Prabhav-Batra">
+    <img src="https://img.shields.io/github/stars/Prabhav-Batra?affiliations=OWNER&style=for-the-badge&logo=apachespark&logoColor=00D4FF&color=161B22&labelColor=0D1117" />
+  </a>
+  <a href="https://github.com/Prabhav-Batra">
+    <img src="https://komarev.com/ghpvc/?username=Prabhav-Batra&style=for-the-badge&color=00D4FF&labelColor=0D1117" />
+  </a>
+</p>
+
+</div>
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" />
+</p>
+
+<!-- ===================== ABOUT ME ===================== -->
+<h2 align="center">⚡ Engineering Overview</h2>
+
+<table width="100%" style="border-collapse: collapse; border: none;">
+<tr>
+
+<td width="60%" valign="top" style="border: none; padding-right: 15px;">
+
+### 👨‍💻 About Me
+
+I build robust, high-performance software products spanning backend engineering, Flutter applications, distributed systems, and modern product architecture. Focused on scalable design, clean code, and zero fluff.
+
+- 🚀 **Building:** Next-gen AI operating systems & payment infrastructure
+- ⚡ **Core Stack:** Java, Kotlin, Dart, Spring Boot, Flutter, PostgreSQL, Redis
+- 🎯 **Target:** Engineering resilient distributed microservices & mobile apps
+- 📍 **Based In:** India
+
+<br/>
+
+<table width="100%" style="border: 1px solid #1F2937; background-color: #0D1117; border-radius: 8px;">
+<tr>
+  <td align="center" width="25%" style="padding: 10px; border-right: 1px solid #1F2937;">
+    <h3 style="color: #00D4FF; margin: 0;">3+</h3>
+    <small>Years Dev</small>
+  </td>
+  <td align="center" width="25%" style="padding: 10px; border-right: 1px solid #1F2937;">
+    <h3 style="color: #00D4FF; margin: 0;">15+</h3>
+    <small>Projects Built</small>
+  </td>
+  <td align="center" width="25%" style="padding: 10px; border-right: 1px solid #1F2937;">
+    <h3 style="color: #00D4FF; margin: 0;">100%</h3>
+    <small>Production Focus</small>
+  </td>
+  <td align="center" width="25%" style="padding: 10px;">
+    <h3 style="color: #00D4FF; margin: 0;">24/7</h3>
+    <small>System Uptime</small>
+  </td>
+</tr>
+</table>
+
+</td>
+
+<td width="40%" valign="top" style="border: none; padding-left: 15px;">
+
+<blockquote style="border-left: 4px solid #00D4FF; background: #161B22; padding: 12px; margin: 0 0 15px 0;">
+<h4 style="margin: 0 0 5px 0; color: #00D4FF;">🧠 My Philosophy</h4>
+Architecture first. Build for failure, design for scale, and execute with absolute precision. High aesthetics meets rock-solid engineering.
+</blockquote>
+
+<blockquote style="border-left: 4px solid #4F94EF; background: #161B22; padding: 12px; margin: 0;">
+<h4 style="margin: 0 0 5px 0; color: #4F94EF;">🎯 The Mission</h4>
+Transforming complex product ideas into resilient, low-latency, and intuitive digital infrastructure.
+</blockquote>
+
+</td>
+
+</tr>
+</table>
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" />
+</p>
+
+<!-- ===================== TECH ARSENAL ===================== -->
+<div align="center">
+
+<h2>🛠️ Tech Arsenal</h2>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,dart,ts,js,python&perline=6" alt="Languages" /><br/>
+  <img src="https://skillicons.dev/icons?i=flutter,spring,react,nextjs,nodejs,express&perline=6" alt="Frameworks" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,firebase&perline=5" alt="Databases" /><br/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,rabbitmq,git,github,linux,vscode,idea,postman,figma&perline=10" alt="DevOps & Tools" />
+</p>
+
+</div>
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" />
+</p>
+
+<!-- ===================== FEATURED PRODUCTS ===================== -->
+<h2 align="center">🚀 Featured Engineering Products</h2>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+```yaml
+Name: ProjectOS
+Type: AI Engineering Operating System
+Tech: Spring Boot, React, Python, OpenAI, PostgreSQL
+Status: Production Ready 🟢
+Link: https://github.com/Prabhav-Batra/ProjectOS
+```
+> AI-powered engineering OS automating developer workflows, task orchestration, and intelligent system analytics.
+
+</td>
+<td width="50%" valign="top">
+
+```yaml
+Name: fluxpay-backend
+Type: Payment Gateway & Banking Infra
+Tech: Java, Spring Boot, Redis, RabbitMQ, PostgreSQL
+Status: Active Deployment 🟢
+Link: https://github.com/Prabhav-Batra/fluxpay-backend
+```
+> High-throughput payment processing engine with double-entry ledger accounting, webhook handling, and fault tolerance.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+```yaml
+Name: fluxpay-frontend
+Type: Mobile Fintech Application
+Tech: Flutter, Dart, Riverpod, Firebase, REST
+Status: Active Deployment 🟢
+Link: https://github.com/Prabhav-Batra/fluxpay-frontend
+```
+> Sleek, cross-platform mobile wallet and fintech dashboard with real-time transaction streaming and biometric security.
+
+</td>
+<td width="50%" valign="top">
+
+```yaml
+Name: NIDS_CLI
+Type: Network Intrusion Detection CLI
+Tech: Python, C++, Scapy, Machine Learning
+Status: Open Source 🟢
+Link: https://github.com/Prabhav-Batra/NIDS_CLI
+```
+> Real-time packet inspection and anomaly detection CLI tool leveraging machine learning models to detect network attacks.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+```yaml
+Name: DiseaseOutbreakPredictor
+Type: Predictive Healthcare Analytics
+Tech: Python, Scikit-Learn, FastAPI, React
+Status: Research & Dev 🟢
+Link: https://github.com/Prabhav-Batra/DiseaseOutbreakPredictor
+```
+> ML forecasting model designed to predict epidemic outbreaks based on epidemiological data, weather patterns, and mobility trends.
+
+</td>
+<td width="50%" valign="top">
+
+```yaml
+Name: LeetPush
+Type: Automation Utility
+Tech: JavaScript, Chrome Extension API, GitHub API
+Status: Published 🟢
+Link: https://github.com/Prabhav-Batra/LeetPush
+```
+> Lightweight extension automatically syncing accepted LeetCode solutions directly to GitHub repositories with detailed runtime stats.
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" />
+</p>
+
+<!-- ===================== GITHUB METRICS ===================== -->
+<div align="center">
+
+<h2>📊 GitHub Analytics & Telemetry</h2>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prabhav-Batra&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=8B949E&border_radius=8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhav-Batra&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=8B949E&border_radius=8" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Prabhav-Batra&theme=dark&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakNum=00D4FF&sideNums=8B949E&sideLabels=8B949E&dates=8B949E" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prabhav-Batra&bg_color=0D1117&color=00D4FF&line=00D4FF&point=ffffff&area=true&area_color=00D4FF&title_color=00D4FF&hide_border=true"/>
+</p>
+
+</div>
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" />
+</p>
+
+<!-- ===================== TROPHIES ===================== -->
+<div align="center">
+
+<h2>🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Prabhav-Batra&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=4"/>
+</p>
+
+</div>
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" />
+</p>
+
+<!-- ===================== SNAKE ANIMATION ===================== -->
+<div align="center">
+
+<h2>🐍 Contribution Matrix</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prabhav-Batra/Prabhav-Batra/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prabhav-Batra/Prabhav-Batra/output/github-contribution-grid-snake.svg">
+  <img alt="Snake Animation" src="https://raw.githubusercontent.com/Prabhav-Batra/Prabhav-Batra/output/github-contribution-grid-snake-dark.svg" width="100%">
+</picture>
+
+</div>
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" />
+</p>
+
+<!-- ===================== CONNECT ===================== -->
+<div align="center">
+
+<h2>🌐 Connect & Network</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://your-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+  </a>
+  <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</p>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:003366,100:0d1117&height=120&section=footer" width="100%" alt="Footer Wave"/>
+
+</div>
