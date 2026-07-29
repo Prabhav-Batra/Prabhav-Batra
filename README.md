@@ -1,116 +1,138 @@
-<div align="center">
+<!-- ===================== BRUTALIST RESUME POSTER (NATIVELY CODED) ===================== -->
 
-<!-- RETRO EDITORIAL BRUTALIST RESUME POSTER (EXACT MATCH TO REFERENCE DESIGN SYSTEM) -->
-<p align="center">
-  <img src="./assets/resume_poster.svg" width="100%" alt="Prabhav Batra - Editorial Resume Poster"/>
-</p>
+<table width="100%" style="border-collapse: collapse; border: none;">
+<tr>
 
-</div>
+<!-- POLAROID AVATAR (LEFT) -->
+<td width="35%" align="center" valign="top" style="border: none;">
+  <img src="./assets/polaroid.svg" width="100%" alt="Polaroid Photo"/>
+</td>
 
-<br/>
+<!-- HEADER & BIO (RIGHT) -->
+<td width="65%" valign="top" style="border: none; padding-left: 20px;">
+  
+  <img src="./assets/header_title.svg" width="100%" alt="Resume - Prabhav Batra"/>
 
-<!-- ===================== QUICK INTERACTIVE LINKS ===================== -->
-<div align="center">
+  <br><br>
+  
+  **ABOUT THE ENGINEER** _Who am I?_
+  > I am a passionate **Systems & Full-Stack Engineer** specializing in building high-throughput backend infrastructure, cross-platform Flutter applications, and resilient distributed microservices.
+  > 
+  > Focused on clean architecture, performance, and impact.
+  
+  <br>
 
-### 🔗 Connect & Explore
+  **TECH ARSENAL** _Software Used_
+  <br><br>
+  <kbd>Java</kbd> <kbd>Kotlin</kbd> <kbd>Spring Boot</kbd> <kbd>Flutter</kbd> <kbd>Dart</kbd>
+  <br><br>
+  <kbd>React</kbd> <kbd>PostgreSQL</kbd> <kbd>Redis</kbd> <kbd>Docker</kbd> <kbd>Python</kbd>
+  
+</td>
+
+</tr>
+</table>
+
+<hr style="border: 1px dashed #777;">
+
+<!-- ===================== CAREER TIMELINE ===================== -->
+<table width="100%" style="border-collapse: collapse; border: none;">
+<tr>
+
+<td width="60%" valign="top" style="border: none; padding-right: 20px;">
+
+## ⚔️ BATTLE-TESTED SYSTEMS
+
+<br>
+
+🟡 **ProjectOS Lead Architect** _(2025 - Present)_  
+> AI-powered engineering OS automating workflow orchestration.
+> <kbd>Spring Boot</kbd> <kbd>React</kbd> <kbd>OpenAI</kbd>
+
+<br>
+
+🟡 **FluxPay Payment Systems** _(2024 - 2025)_  
+> High-throughput Spring Boot double-entry ledger gateway.
+> <kbd>Java</kbd> <kbd>Redis</kbd> <kbd>RabbitMQ</kbd>
+
+<br>
+
+🟡 **FluxPay Mobile Apps** _(2024 - 2025)_  
+> Cross-platform Flutter fintech application with biometric auth.
+> <kbd>Flutter</kbd> <kbd>Dart</kbd> <kbd>Firebase</kbd>
+
+<br>
+
+🟡 **NIDS Security CLI** _(2023 - 2024)_  
+> Real-time packet inspection and ML network intrusion detection.
+> <kbd>Python</kbd> <kbd>Scapy</kbd> <kbd>C++</kbd>
+
+</td>
+
+<td width="40%" valign="top" style="border: none;">
+
+## 🏛 FOUNDATION
+
+🟡 **Bachelor of Technology in CS / Software**  
+> Focus on Data Structures, Distributed Systems & AI
+
+<br><br>
+
+## 🎯 ENGINEERING MILESTONES
+
+🟡 **Open Source Contributor & System Designer**  
+> Engineered scalable microservices & developer tools.
+
+<br>
+
+🟡 **Production-Grade Release Benchmark**  
+> Achieved 99.9% uptime target across deployed apps.
+
+</td>
+
+</tr>
+</table>
+
+<hr style="border: 1px dashed #777;">
+
+<!-- ===================== DEPLOYMENT LINKS & RETRO WIDGET ===================== -->
+<table width="100%" style="border-collapse: collapse; border: none;">
+<tr>
+
+<td width="60%" valign="top" style="border: none;">
+
+## 🔗 DEPLOYMENT LINKS _Click to Access_
+
+<br>
 
 <a href="https://github.com/Prabhav-Batra" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=FFE600"/>
+  <img src="https://img.shields.io/badge/GitHub-FFE600?style=for-the-badge&logo=github&logoColor=121212"/>
 </a>
 <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-FFE600?style=for-the-badge&logo=linkedin&logoColor=121212"/>
 </a>
 <a href="https://your-portfolio.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FFE600?style=for-the-badge&logo=googlechrome&logoColor=121212"/>
+  <img src="https://img.shields.io/badge/Projects-FFE600?style=for-the-badge&logo=googlechrome&logoColor=121212"/>
 </a>
 <a href="mailto:your@email.com">
   <img src="https://img.shields.io/badge/Email-121212?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
+<br><br><br>
 
-<br/>
+### 📡 TELEMETRY
 
-<!-- ===================== FEATURED PRODUCTS DETAIL ===================== -->
-## 🚀 Featured Engineering Products
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ⚡ ProjectOS
-**Type:** AI Engineering Operating System  
-**Tech:** Spring Boot, React, Python, OpenAI, PostgreSQL  
-**Link:** [github.com/Prabhav-Batra/ProjectOS](https://github.com/Prabhav-Batra/ProjectOS)  
-> Intelligent engineering operating system designed to automate software developer workflows, task orchestration, and system metrics.
+<a href="https://github.com/Prabhav-Batra">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Prabhav-Batra&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" />
+</a>
 
 </td>
-<td width="50%" valign="top">
 
-### 💳 fluxpay-backend
-**Type:** Payment Gateway & Ledger Infrastructure  
-**Tech:** Java, Spring Boot, Redis, RabbitMQ, PostgreSQL  
-**Link:** [github.com/Prabhav-Batra/fluxpay-backend](https://github.com/Prabhav-Batra/fluxpay-backend)  
-> High-throughput payment processing engine featuring double-entry ledger accounting, webhook handling, and fault-tolerant queueing.
+<td width="40%" align="right" valign="bottom" style="border: none;">
+
+<img src="./assets/retro_tv.svg" width="200" alt="Available Now TV"/>
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
-### 📱 fluxpay-frontend
-**Type:** Cross-Platform Mobile Wallet  
-**Tech:** Flutter, Dart, Riverpod, Firebase  
-**Link:** [github.com/Prabhav-Batra/fluxpay-frontend](https://github.com/Prabhav-Batra/fluxpay-frontend)  
-> Sleek, modern mobile fintech application with real-time transaction streaming, biometric security, and ultra-smooth UI animations.
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ NIDS_CLI
-**Type:** Network Intrusion Detection CLI  
-**Tech:** Python, C++, Scapy, Machine Learning  
-**Link:** [github.com/Prabhav-Batra/NIDS_CLI](https://github.com/Prabhav-Batra/NIDS_CLI)  
-> Real-time packet inspection and anomaly detection command-line tool leveraging ML models to detect network attacks.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 DiseaseOutbreakPredictor
-**Type:** Predictive Healthcare Analytics  
-**Tech:** Python, Scikit-Learn, FastAPI, React  
-**Link:** [github.com/Prabhav-Batra/DiseaseOutbreakPredictor](https://github.com/Prabhav-Batra/DiseaseOutbreakPredictor)  
-> Predictive machine learning forecasting model designed to analyze epidemiological data and weather patterns for disease outbreaks.
-
-</td>
-<td width="50%" valign="top">
-
-### 🔄 LeetPush
-**Type:** Developer Automation Extension  
-**Tech:** JavaScript, Chrome Extension API, GitHub API  
-**Link:** [github.com/Prabhav-Batra/LeetPush](https://github.com/Prabhav-Batra/LeetPush)  
-> Lightweight extension automatically syncing accepted LeetCode solutions directly to GitHub repositories with detailed runtime stats.
-
-</td>
 </tr>
 </table>
-
-<br/>
-
-<!-- ===================== GITHUB TELEMETRY ===================== -->
-<div align="center">
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prabhav-Batra&show_icons=true&theme=dark&hide_border=true&bg_color=121212&title_color=FFE600&icon_color=FFE600&text_color=FFFFFF&border_radius=8" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhav-Batra&layout=compact&theme=dark&hide_border=true&bg_color=121212&title_color=FFE600&text_color=FFFFFF&border_radius=8" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Prabhav-Batra&theme=dark&hide_border=true&background=121212&ring=FFE600&fire=FFE600&currStreakNum=FFE600&sideNums=FFFFFF&sideLabels=888888" />
-</p>
-
-</div>
