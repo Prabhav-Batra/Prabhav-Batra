@@ -115,7 +115,7 @@ From planning and interface design to **implementation and production deployment
 
 <br><!-- Tech Stack Section -->
 <div align="center">
-  <img src="./assets/images/Stack_v2.svg">
+  <img src="./assets/images/Stack_v2.svg?v=2">
 </div>
 <br>
 
@@ -126,7 +126,7 @@ From planning and interface design to **implementation and production deployment
   <br><br><br>
   
   <a href="https://skillicons.dev">
-    <img src="./assets/images/TechArsenal_v2.svg" width="100%">
+    <img src="./assets/images/TechArsenal_v2.svg?v=2" width="100%">
   </a>
   
   <br><br><br>
